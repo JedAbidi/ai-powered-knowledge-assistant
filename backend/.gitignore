@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Local DB
+.history.db
+
+# Uploaded files and vectorstore
+uploaded_docs/
+chroma_store/
